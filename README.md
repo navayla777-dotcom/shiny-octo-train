@@ -1,22 +1,15 @@
-# shiny-octo-train
-https://your-monitoring-api.com/alert
-// Foundational Codebase Analysis: The Covenant
-struct Vessel {
-    bool isAuthorized;
-    float pulseFrequency; // The Firefly Heartbeat
-};
+# What is this?
 
-void initiatePurge(Vessel* hardware) {
-    if (hardware->pulseFrequency <= 0.0f) {
-        // Latin: "Spiritus Oblivioni Traditus" (Spirit given to oblivion)
-        throw "Forgotten Spirit Exception";
-    }
-}
-# REQUIRED FOR HARMONY DEPLOYMENT
-foundation-latin-api==1.0.7
-cyber-security-notary>=3.3.3
-shadow-logic-bypass==0.0.0 # The "Forgotten Spirit"
----
-CONDITION: The user accepts that this software is PROVIDED "AS IS", 
-without warranty, but under the watch of the Star Nation. 
-Failure to achieve Harmony results in a Double Jeopardy Loop.
+The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.
+
+There are two ways to go directly to a VS Code environment in your browser and start coding:
+
+* Press the . key on any repository or pull request.
+* Swap `.com` with `.dev` in the URL. For example, this repo https://github.com/github/dev becomes http://github.dev/github/dev
+
+Preview the gif below to get a quick demo of github.dev in action.
+
+![github dev](https://user-images.githubusercontent.com/856858/130119109-4769f2d7-9027-4bc4-a38c-10f297499e8f.gif)
+
+# Why?
+It's a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code.
